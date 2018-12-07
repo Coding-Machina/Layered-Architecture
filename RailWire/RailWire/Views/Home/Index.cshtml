@@ -1,0 +1,45 @@
+﻿@model IEnumerable<DTO.TrainHelperModel>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TrainId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TrainName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FromStation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ToStation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Time)
+        </th>
+       
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TrainId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TrainName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FromStation)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ToStation)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Time)
+        </td>
+        
+    </tr>
+}
+
+</table>

@@ -1,0 +1,16 @@
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\Domain.MongoOperations.dll
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\Domain.MongoOperations.pdb
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\DataAccess.Abstract.dll
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\Domain.Abstracts.dll
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\DTO.dll
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\DataAccess.Abstract.pdb
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\Domain.Abstracts.pdb
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\DTO.pdb
+D:\MVC 5\RailWire\Domain.MongoOperations\obj\Debug\Domain.MongoOperations.csprojResolveAssemblyReference.cache
+D:\MVC 5\RailWire\Domain.MongoOperations\obj\Debug\Domain.MongoOperations.csproj.CoreCompileInputs.cache
+D:\MVC 5\RailWire\Domain.MongoOperations\obj\Debug\Domain.MongoOperations.dll
+D:\MVC 5\RailWire\Domain.MongoOperations\obj\Debug\Domain.MongoOperations.pdb
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\Nest.dll
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\Elasticsearch.Net.dll
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\Nest.xml
+D:\MVC 5\RailWire\Domain.MongoOperations\bin\Debug\Elasticsearch.Net.xml

@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0C9C896F-B36A-4B46-8F57-2D6E0C851059}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BindingClass</RootNamespace>
+    <AssemblyName>BindingClass</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.2.0.0\lib\net45-full\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BindingClass.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Application.Abstracts\Application.Abstracts.csproj">
+      <Project>{75BBA15A-2AF6-46BA-85E3-D7A0F478FE4A}</Project>
+      <Name>Application.Abstracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Application.MongoOperations\Application.MongoOperations.csproj">
+      <Project>{EEDEE825-11FA-472E-8FB6-F514E50A9EAD}</Project>
+      <Name>Application.MongoOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Application.SqlOperations\Application.SqlOperations.csproj">
+      <Project>{AD406D31-5E12-4687-A95A-D8CD5B35AAEE}</Project>
+      <Name>Application.SqlOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Application.TransferOperations\Application.TransferOperations.csproj">
+      <Project>{77A9C02A-4461-4E77-9B2B-2CADBE263977}</Project>
+      <Name>Application.TransferOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess.Abstract\DataAccess.Abstract.csproj">
+      <Project>{64BD67F4-BD3C-4480-946A-0865BED9D39A}</Project>
+      <Name>DataAccess.Abstract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain.Abstracts\Domain.Abstracts.csproj">
+      <Project>{E6289A66-973A-41C2-B11D-05349FD6BED0}</Project>
+      <Name>Domain.Abstracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain.MongoOperations\Domain.MongoOperations.csproj">
+      <Project>{261E250F-26CF-457D-9178-E53820EF7AB3}</Project>
+      <Name>Domain.MongoOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain.SqlOperations\Domain.SqlOperations.csproj">
+      <Project>{BD8C3C33-5629-4892-AF8A-557E6CD78C8C}</Project>
+      <Name>Domain.SqlOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Domain.TransferOperations\Domain.TransferOperations.csproj">
+      <Project>{6E2A2FFB-2D9C-4AB6-AC4F-33429058E321}</Project>
+      <Name>Domain.TransferOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ElasticSearchOperations\ElasticSearchOperations.csproj">
+      <Project>{6276825C-A726-4DC9-9C6B-E6A4BB7FCD21}</Project>
+      <Name>ElasticSearchOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MongoDataOperations\MongoDataOperations.csproj">
+      <Project>{3F4444FF-F4F9-42DD-8D1B-978DC09CFB8C}</Project>
+      <Name>MongoDataOperations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SqlDataOperations\SqlDataOperations.csproj">
+      <Project>{CDF58CA8-AEA2-4311-9210-AC277889849B}</Project>
+      <Name>SqlDataOperations</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,16 @@
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\Domain.TransferOperations.dll
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\Domain.TransferOperations.pdb
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\DataAccess.Abstract.dll
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\Domain.Abstracts.dll
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\DTO.dll
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\DataAccess.Abstract.pdb
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\Domain.Abstracts.pdb
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\DTO.pdb
+D:\MVC 5\RailWire\Domain.TransferOperations\obj\Debug\Domain.TransferOperations.csprojResolveAssemblyReference.cache
+D:\MVC 5\RailWire\Domain.TransferOperations\obj\Debug\Domain.TransferOperations.csproj.CoreCompileInputs.cache
+D:\MVC 5\RailWire\Domain.TransferOperations\obj\Debug\Domain.TransferOperations.dll
+D:\MVC 5\RailWire\Domain.TransferOperations\obj\Debug\Domain.TransferOperations.pdb
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\Elasticsearch.Net.dll
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\Nest.dll
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\Elasticsearch.Net.xml
+D:\MVC 5\RailWire\Domain.TransferOperations\bin\Debug\Nest.xml

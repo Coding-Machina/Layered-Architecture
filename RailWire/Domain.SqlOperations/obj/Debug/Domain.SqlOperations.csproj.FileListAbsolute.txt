@@ -1,0 +1,16 @@
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\Domain.SqlOperations.dll
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\Domain.SqlOperations.pdb
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\DataAccess.Abstract.dll
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\Domain.Abstracts.dll
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\DTO.dll
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\DataAccess.Abstract.pdb
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\Domain.Abstracts.pdb
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\DTO.pdb
+D:\MVC 5\RailWire\Domain.SqlOperations\obj\Debug\Domain.SqlOperations.csprojResolveAssemblyReference.cache
+D:\MVC 5\RailWire\Domain.SqlOperations\obj\Debug\Domain.SqlOperations.csproj.CoreCompileInputs.cache
+D:\MVC 5\RailWire\Domain.SqlOperations\obj\Debug\Domain.SqlOperations.dll
+D:\MVC 5\RailWire\Domain.SqlOperations\obj\Debug\Domain.SqlOperations.pdb
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\Nest.dll
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\Elasticsearch.Net.dll
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\Nest.xml
+D:\MVC 5\RailWire\Domain.SqlOperations\bin\Debug\Elasticsearch.Net.xml

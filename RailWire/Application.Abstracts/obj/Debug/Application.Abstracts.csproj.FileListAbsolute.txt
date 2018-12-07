@@ -1,0 +1,8 @@
+D:\MVC 5\RailWire\Application.Abstracts\bin\Debug\Application.Abstracts.dll
+D:\MVC 5\RailWire\Application.Abstracts\bin\Debug\Application.Abstracts.pdb
+D:\MVC 5\RailWire\Application.Abstracts\bin\Debug\DTO.dll
+D:\MVC 5\RailWire\Application.Abstracts\bin\Debug\DTO.pdb
+D:\MVC 5\RailWire\Application.Abstracts\obj\Debug\Application.Abstracts.csprojResolveAssemblyReference.cache
+D:\MVC 5\RailWire\Application.Abstracts\obj\Debug\Application.Abstracts.csproj.CoreCompileInputs.cache
+D:\MVC 5\RailWire\Application.Abstracts\obj\Debug\Application.Abstracts.dll
+D:\MVC 5\RailWire\Application.Abstracts\obj\Debug\Application.Abstracts.pdb

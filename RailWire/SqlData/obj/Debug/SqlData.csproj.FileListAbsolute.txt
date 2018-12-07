@@ -1,0 +1,11 @@
+D:\MVC 5\RailWire\SqlData\bin\Debug\SqlData.dll.config
+D:\MVC 5\RailWire\SqlData\bin\Debug\SqlData.dll
+D:\MVC 5\RailWire\SqlData\bin\Debug\SqlData.pdb
+D:\MVC 5\RailWire\SqlData\bin\Debug\EntityFramework.dll
+D:\MVC 5\RailWire\SqlData\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVC 5\RailWire\SqlData\bin\Debug\EntityFramework.xml
+D:\MVC 5\RailWire\SqlData\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVC 5\RailWire\SqlData\obj\Debug\SqlData.csprojResolveAssemblyReference.cache
+D:\MVC 5\RailWire\SqlData\obj\Debug\SqlData.csproj.CoreCompileInputs.cache
+D:\MVC 5\RailWire\SqlData\obj\Debug\SqlData.dll
+D:\MVC 5\RailWire\SqlData\obj\Debug\SqlData.pdb

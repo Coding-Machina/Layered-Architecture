@@ -1,0 +1,17 @@
+D:\MVC 5\RailWire\MongoData\bin\Debug\MongoData.dll.config
+D:\MVC 5\RailWire\MongoData\bin\Debug\MongoData.dll
+D:\MVC 5\RailWire\MongoData\bin\Debug\MongoData.pdb
+D:\MVC 5\RailWire\MongoData\bin\Debug\DnsClient.dll
+D:\MVC 5\RailWire\MongoData\bin\Debug\MongoDB.Bson.dll
+D:\MVC 5\RailWire\MongoData\bin\Debug\MongoDB.Driver.Core.dll
+D:\MVC 5\RailWire\MongoData\bin\Debug\MongoDB.Driver.dll
+D:\MVC 5\RailWire\MongoData\bin\Debug\System.Buffers.dll
+D:\MVC 5\RailWire\MongoData\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MVC 5\RailWire\MongoData\bin\Debug\DnsClient.xml
+D:\MVC 5\RailWire\MongoData\bin\Debug\MongoDB.Bson.xml
+D:\MVC 5\RailWire\MongoData\bin\Debug\MongoDB.Driver.xml
+D:\MVC 5\RailWire\MongoData\bin\Debug\MongoDB.Driver.Core.xml
+D:\MVC 5\RailWire\MongoData\obj\Debug\MongoData.csprojResolveAssemblyReference.cache
+D:\MVC 5\RailWire\MongoData\obj\Debug\MongoData.csproj.CoreCompileInputs.cache
+D:\MVC 5\RailWire\MongoData\obj\Debug\MongoData.dll
+D:\MVC 5\RailWire\MongoData\obj\Debug\MongoData.pdb

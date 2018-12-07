@@ -1,0 +1,12 @@
+D:\MVC 5\RailWire\Application.MongoOperations\bin\Debug\Application.MongoOperations.dll
+D:\MVC 5\RailWire\Application.MongoOperations\bin\Debug\Application.MongoOperations.pdb
+D:\MVC 5\RailWire\Application.MongoOperations\bin\Debug\Application.Abstracts.dll
+D:\MVC 5\RailWire\Application.MongoOperations\bin\Debug\Domain.Abstracts.dll
+D:\MVC 5\RailWire\Application.MongoOperations\bin\Debug\DTO.dll
+D:\MVC 5\RailWire\Application.MongoOperations\bin\Debug\Application.Abstracts.pdb
+D:\MVC 5\RailWire\Application.MongoOperations\bin\Debug\Domain.Abstracts.pdb
+D:\MVC 5\RailWire\Application.MongoOperations\bin\Debug\DTO.pdb
+D:\MVC 5\RailWire\Application.MongoOperations\obj\Debug\Application.MongoOperations.csprojResolveAssemblyReference.cache
+D:\MVC 5\RailWire\Application.MongoOperations\obj\Debug\Application.MongoOperations.csproj.CoreCompileInputs.cache
+D:\MVC 5\RailWire\Application.MongoOperations\obj\Debug\Application.MongoOperations.dll
+D:\MVC 5\RailWire\Application.MongoOperations\obj\Debug\Application.MongoOperations.pdb

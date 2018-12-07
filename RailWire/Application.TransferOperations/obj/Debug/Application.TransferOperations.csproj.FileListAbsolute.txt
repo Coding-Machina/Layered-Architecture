@@ -1,0 +1,12 @@
+D:\MVC 5\RailWire\Application.TransferOperations\bin\Debug\Application.TransferOperations.dll
+D:\MVC 5\RailWire\Application.TransferOperations\bin\Debug\Application.TransferOperations.pdb
+D:\MVC 5\RailWire\Application.TransferOperations\bin\Debug\Application.Abstracts.dll
+D:\MVC 5\RailWire\Application.TransferOperations\bin\Debug\Domain.Abstracts.dll
+D:\MVC 5\RailWire\Application.TransferOperations\bin\Debug\DTO.dll
+D:\MVC 5\RailWire\Application.TransferOperations\bin\Debug\Application.Abstracts.pdb
+D:\MVC 5\RailWire\Application.TransferOperations\bin\Debug\Domain.Abstracts.pdb
+D:\MVC 5\RailWire\Application.TransferOperations\bin\Debug\DTO.pdb
+D:\MVC 5\RailWire\Application.TransferOperations\obj\Debug\Application.TransferOperations.csprojResolveAssemblyReference.cache
+D:\MVC 5\RailWire\Application.TransferOperations\obj\Debug\Application.TransferOperations.csproj.CoreCompileInputs.cache
+D:\MVC 5\RailWire\Application.TransferOperations\obj\Debug\Application.TransferOperations.dll
+D:\MVC 5\RailWire\Application.TransferOperations\obj\Debug\Application.TransferOperations.pdb

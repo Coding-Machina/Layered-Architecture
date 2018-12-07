@@ -1,0 +1,12 @@
+D:\MVC 5\RailWire\Application.SqlOperations\bin\Debug\Application.SqlOperations.dll
+D:\MVC 5\RailWire\Application.SqlOperations\bin\Debug\Application.SqlOperations.pdb
+D:\MVC 5\RailWire\Application.SqlOperations\bin\Debug\Application.Abstracts.dll
+D:\MVC 5\RailWire\Application.SqlOperations\bin\Debug\Domain.Abstracts.dll
+D:\MVC 5\RailWire\Application.SqlOperations\bin\Debug\DTO.dll
+D:\MVC 5\RailWire\Application.SqlOperations\bin\Debug\Application.Abstracts.pdb
+D:\MVC 5\RailWire\Application.SqlOperations\bin\Debug\Domain.Abstracts.pdb
+D:\MVC 5\RailWire\Application.SqlOperations\bin\Debug\DTO.pdb
+D:\MVC 5\RailWire\Application.SqlOperations\obj\Debug\Application.SqlOperations.csprojResolveAssemblyReference.cache
+D:\MVC 5\RailWire\Application.SqlOperations\obj\Debug\Application.SqlOperations.csproj.CoreCompileInputs.cache
+D:\MVC 5\RailWire\Application.SqlOperations\obj\Debug\Application.SqlOperations.dll
+D:\MVC 5\RailWire\Application.SqlOperations\obj\Debug\Application.SqlOperations.pdb

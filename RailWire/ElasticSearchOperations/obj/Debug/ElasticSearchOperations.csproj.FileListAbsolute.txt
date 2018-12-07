@@ -1,0 +1,14 @@
+D:\MVC 5\RailWire\ElasticSearchOperations\bin\Debug\ElasticSearchOperations.dll
+D:\MVC 5\RailWire\ElasticSearchOperations\bin\Debug\ElasticSearchOperations.pdb
+D:\MVC 5\RailWire\ElasticSearchOperations\bin\Debug\DataAccess.Abstract.dll
+D:\MVC 5\RailWire\ElasticSearchOperations\bin\Debug\DTO.dll
+D:\MVC 5\RailWire\ElasticSearchOperations\bin\Debug\Elasticsearch.Net.dll
+D:\MVC 5\RailWire\ElasticSearchOperations\bin\Debug\Nest.dll
+D:\MVC 5\RailWire\ElasticSearchOperations\bin\Debug\DataAccess.Abstract.pdb
+D:\MVC 5\RailWire\ElasticSearchOperations\bin\Debug\DTO.pdb
+D:\MVC 5\RailWire\ElasticSearchOperations\bin\Debug\Elasticsearch.Net.xml
+D:\MVC 5\RailWire\ElasticSearchOperations\bin\Debug\Nest.xml
+D:\MVC 5\RailWire\ElasticSearchOperations\obj\Debug\ElasticSearchOperations.csprojResolveAssemblyReference.cache
+D:\MVC 5\RailWire\ElasticSearchOperations\obj\Debug\ElasticSearchOperations.csproj.CoreCompileInputs.cache
+D:\MVC 5\RailWire\ElasticSearchOperations\obj\Debug\ElasticSearchOperations.dll
+D:\MVC 5\RailWire\ElasticSearchOperations\obj\Debug\ElasticSearchOperations.pdb

@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        $(document).ready(function () {
+            $("#tble").hide();
+
+            $("#btnsubmit").on("click", function () {
+
+                if ($("#txtTrainName").val() === "") {
+                    alert("Provide Details to Search !");
+                }
+                else {
+
+                    var obj = {};
+                    obj.TrainName = ($("#txtTrainName").val());
+
+
+                    @*var apiUrl = "@Url.Action("TrainWebApi", "GetTrains")";*@
+
+                    $.ajax({
+                        type: "GET",
+                        contentType: 'application/json',
+                        url: "/api/TrainWebApi/" + obj.TrainName,
+                        success: function (data) {
+                            if (data.length <= 0) {
+                                alert("No Data Found!!");
+                            } else {
+                                var timetook = 10;
+                                $('div.total-title').text(timetook + " millisecond");
+
+                                var tableBody = "";
+                                $.each(data, function (i, item) {
+                                    tableBody += "<tr>";
+                                    tableBody += "<td>" + item.TrainId+ "</td>";
+                                    tableBody += "<td>" + item.TrainName + "</td>";
+                                    tableBody += "<td>" + item.FromStation + "</td>";
+                                    tableBody += "<td>" + item.ToStation + "</td>";
+                                    tableBody += "<td>" + item.Time + "</td>";
+                                    tableBody += "</tr>";
+                                });
+                                $("#tble > tbody").html(tableBody);
+                                $("#tble").show();
+                            }
+                            console.log(data);
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+</head>
+<body class="container">
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">Search</div>
+        <div> @Html.ActionLink("Back To Home", "Index", "Home")</div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-3">
+                    Name
+                    <input id="txtTrainName" onblur="return checkTextFields(this);" onkeypress="return isAlphaKey(event)" class="form-control" type="text" />
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="row">
+                <div class="col-md-12">
+                    <br />
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="row">
+                <div class="col-md-8">
+                    <input id="btnsubmit" class="btn btn-info" type="button" value="Search" />
+                    <a href="/Search/Search" class="btn btn-warning">Clear</a>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="alert alert-warning">
+                        Time Took - <span class="badge">
+                            <i class="fa fa-clock-o" aria-hidden="true"></i>
+                            <div class="total-title" id="timetook"></div>
+                        </span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <table id="tble" class="table table-bordered table-striped">
+        <thead>
+            <tr>
+                <th>Train Id</th>
+                <th>Train Name</th>
+                <th>From Station</th>
+                <th>To Station</th>
+                <th>Time</th>
+            </tr>
+        </thead>
+        <tbody>
+        
+        </tbody>
+    </table>
+</body>
+</html>
+
+<script>
+    function checkTextFields(ctrl) {
+
+        var str = ctrl.value;
+        var isnot = "!@@#$%^&*+=|\~`?><':;{[}]_";
+        var inval = 0;
+        var x;
+        for (var i = 0; i < str.length; i++) {
+            for (x = 0; x < isnot.length; x++) {
+                if (str.charAt(i) === (isnot.charAt(x))) {
+                    inval = 1;
+
+                    ctrl.value = str.substring(0, str.indexOf(str.charAt(i)));
+                    ctrl.value = "";
+                    ctrl.focus();
+                }
+            }
+        }
+
+        if (inval === 1) {
+            alert("only alphabets,numbers  and {.,/()-} space allowed");
+        }
+
+        return (inval);
+    }
+
+    function isAlphaKey(evt) {
+
+        var charCode = (evt.which) ? evt.which : event.keyCode;
+        if (charCode > 31 && (charCode < 48 || charCode > 57) || charCode === 8)
+            return true;
+
+        return false;
+    }
+
+</script>

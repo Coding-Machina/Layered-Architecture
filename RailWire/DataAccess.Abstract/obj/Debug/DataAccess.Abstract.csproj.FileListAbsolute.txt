@@ -1,0 +1,17 @@
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\DataAccess.Abstract.dll
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\DataAccess.Abstract.pdb
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\DTO.dll
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\SqlData.dll
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\EntityFramework.dll
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\DTO.pdb
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\SqlData.pdb
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\SqlData.dll.config
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\EntityFramework.xml
+D:\MVC 5\RailWire\DataAccess.Abstract\obj\Debug\DataAccess.Abstract.csprojResolveAssemblyReference.cache
+D:\MVC 5\RailWire\DataAccess.Abstract\obj\Debug\DataAccess.Abstract.csproj.CoreCompileInputs.cache
+D:\MVC 5\RailWire\DataAccess.Abstract\obj\Debug\DataAccess.Abstract.dll
+D:\MVC 5\RailWire\DataAccess.Abstract\obj\Debug\DataAccess.Abstract.pdb
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\Elasticsearch.Net.dll
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\Nest.dll
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\Elasticsearch.Net.xml
+D:\MVC 5\RailWire\DataAccess.Abstract\bin\Debug\Nest.xml
